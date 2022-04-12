@@ -9,7 +9,7 @@ El API de Desempeño permite la consulta de todos los procesos, los colaboradore
 - Colaboradores
 - Procesos empresariales
 - Resultados Globales
-- Resultados Individuales
+- [Resultados Individuales](https://github.com/Rankmi/rankmi-api-notebooks/blob/main/performance/APIRankmi-Performance-Individuals.ipynb)
 - Distribución Global de Resultados
 - Jerarquía de áreas
 
