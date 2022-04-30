@@ -12,6 +12,8 @@ El API de Desempeño permite la consulta de todos los procesos, los colaboradore
 - [Resultados Individuales](https://github.com/Rankmi/rankmi-api-notebooks/blob/main/performance/APIRankmi-Performance-Individuals.ipynb)
 - Distribución Global de Resultados
 - Jerarquía de áreas
+- [Resumen de resultados Compentencias](https://github.com/Rankmi/rankmi-api-notebooks/blob/main/performance/APIRankmi-Sample-Ejec-Compentences.ipynb)
+- [Resumen de resultados Dominio](https://github.com/Rankmi/rankmi-api-notebooks/blob/main/performance/APIRankmi-Sample-Ejec-Dominio.ipynb)
 
 # Tecnología
 GraphQL
