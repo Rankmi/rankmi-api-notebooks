@@ -4,3 +4,6 @@ Repositorio de notebooks para ejemplificar el uso de los distintos métodos del 
 # Notebooks Disponibles
 - API Desempeño
 - API Master Personas
+- API ATS
+- API LMS
+- API Payroll
